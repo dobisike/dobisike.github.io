@@ -11,3 +11,5 @@
  * Hello World: Android app
 
  ## Links
+
+  * [LinkedIn](https://www.linkedin.com/in/dorianobisike/)

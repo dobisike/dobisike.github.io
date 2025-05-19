@@ -6,7 +6,7 @@
     
  ## Current projects
 
- * Hello World: Java console application
+ * [Hello World: Java console application](https://github.com/ddc-java-21/hello-world-dobisike)
       
  * Hello World: Android app
 
